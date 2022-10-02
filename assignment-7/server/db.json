@@ -1,0 +1,97 @@
+{
+  "transactions": [
+    {
+      "name": "Salary Jan",
+      "type": "income",
+      "amount": 30000,
+      "id": 1
+    },
+    {
+      "name": "Upory income",
+      "type": "income",
+      "amount": 20000,
+      "id": 2
+    },
+    {
+      "name": "Electricity Bill",
+      "type": "expense",
+      "amount": 3000,
+      "id": 3
+    },
+    {
+      "name": "Internet Bill",
+      "type": "expense",
+      "amount": 1000,
+      "id": 4
+    },
+    {
+      "name": "Tution Fee",
+      "type": "expense",
+      "amount": 5000,
+      "id": 5
+    },
+    {
+      "name": "Salary Feb",
+      "type": "income",
+      "amount": 30000,
+      "id": 6
+    },
+    {
+      "name": "Passive income",
+      "type": "income",
+      "amount": 50000,
+      "id": 7
+    },
+    {
+      "name": "Buy Laptop",
+      "type": "expense",
+      "amount": 30000,
+      "id": 8
+    },
+    {
+      "name": "Buy Smartphone",
+      "type": "expense",
+      "amount": 8000,
+      "id": 9
+    },
+    {
+      "name": "Buy Pendrive",
+      "type": "expense",
+      "amount": 1000,
+      "id": 10
+    },
+    {
+      "name": "Buy Keyboard",
+      "type": "expense",
+      "amount": 1000,
+      "id": 11
+    },
+    {
+      "name": "Buy Mouse",
+      "type": "expense",
+      "amount": 1000,
+      "id": 12
+    },
+    {
+      "name": "Salary Mar",
+      "type": "income",
+      "amount": 30000,
+      "id": 13
+    },
+    {
+      "name": "Sell Books",
+      "type": "income",
+      "amount": 20000,
+      "id": 14
+    },
+    {
+      "name": "Charity",
+      "amount": 60000,
+      "type": "expense",
+      "id": 15
+    }
+  ],
+  "balance": {
+    "totalBalance": 70000
+  }
+}

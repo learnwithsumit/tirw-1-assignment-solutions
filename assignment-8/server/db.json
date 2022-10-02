@@ -1,0 +1,49 @@
+{
+  "todos": [
+    {
+      "text": "Learn MongoDB",
+      "completed": false,
+      "id": 11,
+      "color": "red"
+    },
+    {
+      "text": "Learn REST API",
+      "completed": false,
+      "id": 13,
+      "color": "red"
+    },
+    {
+      "text": "Learn GraphQL",
+      "completed": false,
+      "id": 14,
+      "color": "yellow"
+    },
+    {
+      "text": "Learn Query",
+      "completed": false,
+      "id": 15,
+      "color": "yellow"
+    },
+    {
+      "text": "Learn Javascript",
+      "completed": true,
+      "id": 16,
+      "color": "red"
+    },
+    {
+      "text": "Learn From LWS",
+      "completed": true,
+      "id": 17
+    },
+    {
+      "text": "Learn Redux",
+      "completed": true,
+      "id": 18
+    },
+    {
+      "text": "Learn RTK  Query",
+      "completed": false,
+      "id": 19
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "যে ১০ টি ভুল বিগিনার রিয়্যাক্ট ডেভেলপাররা করে থাকেন",
+      "description": "আপনারা যারা বিগিনার হিসেবে রিয়্যাক্ট জেস নিয়ে কাজ করা শুরু করেছেন, তারা রিয়্যাক্ট এর বেশ কিছু কনসেপ্ট ঠিক মতো আয়ত্ত না করতে পারার কারণে বিচিত্র কিছু সমস্যার সম্মুখীন হন এবং শেষ পর্যন্ত বুঝতে না পেরে হতাশ হয়ে পড়েন। তাদের জন্যই এই ভিডিওটি। এই ভিডিওতে আমি এমন ১০টি সমস্যার কথা তুলে ধরেছি যেগুলো বিগিনার হিসেবে আপনারা অহরহ সম্মুখীন হবেন। আশা করি ভিডিওটি দেখলে আপনাদের এই সমস্যাগুলো নিয়ে আর কনফিউশন থাকবেনা।",
+      "author": "LWS",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "May 10, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/6O4s7v28nlw",
+      "thumbnail": "https://i3.ytimg.com/vi/6O4s7v28nlw/maxresdefault.jpg",
+      "tags": ["javascript", "react", "tips"],
+      "likes": 17,
+      "unlikes": 5
+    },
+    {
+      "id": 8,
+      "title": "Node.js and Express.js - Full Course",
+      "description": "Learn how to use Node and Express in this comprehensive course. First, you will learn the fundamentals of Node and Express. Then, you will learn to build a complex Rest API. Finally, you will build a MERN app and other Node projects.",
+      "author": "John Smilga",
+      "avatar": "https://avatars.githubusercontent.com/u/42133389?v=4",
+      "date": "Oct 15, 2028",
+      "duration": "8:16:48",
+      "views": "8.1k",
+      "link": "https://www.youtube-nocookie.com/embed/Oe421EPjeBE",
+      "thumbnail": "https://i.ytimg.com/vi/Oe421EPjeBE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXCkN1Cu4rFO_0Z0kFmQTe1-xRJQ",
+      "tags": ["node", "javascript"],
+      "likes": 9,
+      "unlikes": 1
+    },
+    {
+      "id": 9,
+      "title": "React Crash Course for Beginners 2021 - Learn ReactJS from Scratch in this 100% Free Tutorial!",
+      "description": "Get Started with React.js and learn how to build amazing websites with ReactJS! Full Project included, 100% free!",
+      "author": "Maximilian Schwarzmueller",
+      "avatar": "https://avatars.githubusercontent.com/u/28806196?v=4",
+      "date": "Oct 15, 2028",
+      "duration": "3:51:55",
+      "views": "8.1k",
+      "link": "https://www.youtube-nocookie.com/embed/Dorf8i6lCuk",
+      "thumbnail": "https://i.ytimg.com/vi/Dorf8i6lCuk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6D1KhcgnNVqnd82sz3OV2Rn6_Sg",
+      "tags": ["react"],
+      "likes": 2,
+      "unlikes": 2
+    },
+    {
+      "id": 2,
+      "title": "VS Code Snippets - Boost your productivity with User Snippets",
+      "description": "আমরা যখন Visual Studio Code Editor এ কাজ করি তখন অহরহ ব্যবহৃত কোড ব্লক গুলো আমাদের কে বারবার টাইপ করতে হয় এবং সামগ্রিকভাবে চিন্তা করলে এরকম ছোট ছোট ম্যনুয়াল কাজ আমাদের productivity অনেকাংশেই কমিয়ে দেয়। VS Code এর বিল্ট ইন ইউজার স্নিপেট ফিচারের মাধ্যমে আমরা কমন কাজগুলো স্নিপেট আকারে সাজিয়ে রেখে দিতে পারি এবং শর্টকাট কমান্ডের মাধ্যমে বড় বড় কোড ব্লক গুলো নিয়ে আসতে পারি। এই ভিডিওতে আপনারা এটাই জানতে পারবেন যে কিভাবে আমরা Visual Studio Code Editor এ কাস্টম স্নিপেট লিখতে পারি।",
+      "author": "LWS",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "April 25, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/N-U6AVcIPy4",
+      "thumbnail": "https://i3.ytimg.com/vi/N-U6AVcIPy4/maxresdefault.jpg",
+      "tags": ["vscode", "tips"],
+      "likes": 7,
+      "unlikes": 4
+    },
+    {
+      "id": 3,
+      "title": "Tailwind CSS 3 tutorial - Upgrade to Tailwind 3 | Tailwind CSS Bangla Tutorial",
+      "description": "Tailwind CSS v3.0 came with incredible performance gains, huge workflow improvements, and a seriously ridiculous number of new features. In this tutorial - I have tried to explain different new features of Tailwind CSS version 3, how to install tailwind css 3, how to upgrade from tailwind v2 to v3 etc.",
+      "author": "LWS",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "March 11, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/4M7D3O2XX4o",
+      "thumbnail": "https://i3.ytimg.com/vi/4M7D3O2XX4o/maxresdefault.jpg",
+      "tags": ["tailwind", "css"],
+      "likes": 14,
+      "unlikes": 6
+    },
+    {
+      "id": 4,
+      "title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "description": "In this video, I have explained about the debounce function in JavaScript. This is a common question interviewers ask at Job Interviews. If you watch this video carefully, you will understand what is debounce and how to handle it with custom debounce function.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Jan 06, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/dD9O8DnIBj4",
+      "thumbnail": "https://i3.ytimg.com/vi/dD9O8DnIBj4/maxresdefault.jpg",
+      "tags": ["debounce", "javascript", "tips"],
+      "likes": 12,
+      "unlikes": 2
+    },
+    {
+      "id": 5,
+      "title": "SASS Tutorial in English - Overview of SASS",
+      "description": "In this video, I have given a high level overview of popular CSS Pre-processor SASS which helps us managing our styles at scale. If you have a basic understanding of CSS & JavaScript, this 10 mins SASS Tutorial will help you getting started with SASS.",
+      "author": "LWS",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Nov 22, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/4tV1Mfi4fMA",
+      "thumbnail": "https://i3.ytimg.com/vi/4tV1Mfi4fMA/maxresdefault.jpg",
+      "tags": ["sass", "css", "ui"],
+      "likes": 12,
+      "unlikes": 9
+    },
+    {
+      "id": 6,
+      "title": "React Router DOM v6 Bangla Tutorial - Breaking Changes - React Router 6 vs 5",
+      "description": "In this React Router DOM v6 Bangla tutorial, you will learn how to install react router dom 6, what are the breaking changes in react router 6, difference between react router 6 vs 5, how to upgrade from react router v5 to react router v6. ",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Nov 08, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/34tjWL9wi4g",
+      "thumbnail": "https://i3.ytimg.com/vi/34tjWL9wi4g/maxresdefault.jpg",
+      "tags": ["react", "router", "javascript"],
+      "likes": 7,
+      "unlikes": 4
+    },
+    {
+      "id": 7,
+      "title": "Tailwind CSS Tutorial Bangla - Introduction to Tailwind CSS",
+      "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/smDa6hoxLKI",
+      "thumbnail": "https://i3.ytimg.com/vi/smDa6hoxLKI/maxresdefault.jpg",
+      "tags": ["tailwind", "css", "ui"],
+      "likes": 17,
+      "unlikes": 5
+    },
+    {
+      "id": 10,
+      "title": "How to Become a Better Web Developer - My Thoughts",
+      "description": "There is one question I get quite a lot: How can I become a better web developer? For sure there is not one single way to grow as a web developer but let me share my thoughts about this topic and give you a bit of a guideline in this video!",
+      "author": "Maximilian Schwarzmueller",
+      "avatar": "https://avatars.githubusercontent.com/u/28806196?v=4",
+      "date": "Oct 15, 2024",
+      "duration": "16:28",
+      "views": "4.1k",
+      "link": "https://www.youtube-nocookie.com/embed/H7X25hZ1Pq8",
+      "thumbnail": "https://i.ytimg.com/vi/H7X25hZ1Pq8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlsxczXmq-XgpVvt68g8mRskGXsQ",
+      "tags": ["tips"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 11,
+      "title": "React Tutorial - Fundamentals, Hooks, Context API, React Router, Custom Hooks",
+      "description": "Complete React Tutorial (inc. Hooks, Context API, React Router, Custom Hooks)",
+      "author": "John Smilga",
+      "avatar": "https://avatars.githubusercontent.com/u/42133389?v=4",
+      "date": "Oct 15, 2028",
+      "duration": "10:07:51",
+      "views": "30.1k",
+      "link": "https://www.youtube-nocookie.com/embed/iZhV0bILFb0",
+      "thumbnail": "https://i.ytimg.com/vi/iZhV0bILFb0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAs2VUu-hu9uOXE7g63n6JLutUmWQ",
+      "tags": ["react", "javascript"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 12,
+      "title": "Flexbox Crash Course 2022",
+      "description": "Flexbox is used for space distribution, positioning and alignment in CSS.",
+      "author": "Brad Traversy",
+      "avatar": "https://avatars.githubusercontent.com/u/5550850?v=4",
+      "date": "Oct 15, 2015",
+      "duration": "46:53",
+      "views": "7.1k",
+      "link": "https://www.youtube-nocookie.com/embed/3YW65K6LcIA",
+      "thumbnail": "https://i.ytimg.com/vi/3YW65K6LcIA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDY64HsOoBOjj91mBPnb38cAIT4vw",
+      "tags": ["css"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 13,
+      "title": "Dealing With Some Common Frustrations As A Developer",
+      "description": "In this video, I'll talk about some of the downsides and common frustrations that many developers deal with, whether working at a company or freelancing.",
+      "author": "Brad Traversy",
+      "avatar": "https://avatars.githubusercontent.com/u/5550850?v=4",
+      "date": "Oct 15, 2022",
+      "duration": "11:30",
+      "views": "6.1k",
+      "link": "https://www.youtube-nocookie.com/embed/noxptDN1lEk",
+      "thumbnail": "https://i.ytimg.com/vi/noxptDN1lEk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMEgqgi4-aezhJplRJL4GfeOXtZQ",
+      "tags": ["tips"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 14,
+      "title": "React Router 6 – Tutorial for Beginners",
+      "description": "Learn how to use React Router V6 in this crash course for beginners. React Router is the most popular way to add page routing in React Apps. It is used very frequently in React projects.",
+      "author": "John Smilga",
+      "avatar": "https://avatars.githubusercontent.com/u/42133389?v=4",
+      "date": "Oct 15, 2022",
+      "duration": "1:17:24",
+      "views": "1.1k",
+      "link": "https://www.youtube-nocookie.com/embed/59IXY5IDrBA",
+      "thumbnail": "https://i.ytimg.com/vi/59IXY5IDrBA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2-bMDXvVNR-_hQvkMIbwGFJzoWw",
+      "tags": ["router"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 15,
+      "title": "CSS Tutorial for Beginners, the Complete Guide | Udemy Instructor, Maximilian Schwarzmüller",
+      "description": "In this video, CSS Tutorial for Beginners | Udemy Instructor,  Maximilian Schwarzmüller teaches the CSS so you can build beautiful websites with beginning to advanced CSS features.CSS (Cascading Style Sheets) is super-important. You'll find basically no website without it. And still many people use it in a trial-and-error way.Let's dive into CSS, it's concepts and how it really works in this video",
+      "author": "Maximilian Schwarzmueller",
+      "avatar": "https://avatars.githubusercontent.com/u/28806196?v=4",
+      "date": "Oct 15, 2021",
+      "duration": "1:39:23",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/C5zTzUFXQrE",
+      "thumbnail": "https://i.ytimg.com/vi/C5zTzUFXQrE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_MLZYEoUF9yMqOnMdxbdp9OKhZw",
+      "tags": ["css"],
+      "likes": 0,
+      "unlikes": 0
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "title": "javascript"
+    },
+    {
+      "id": 2,
+      "title": "react"
+    },
+    {
+      "id": 3,
+      "title": "tips"
+    },
+    {
+      "id": 4,
+      "title": "vscode"
+    },
+    {
+      "id": 5,
+      "title": "tailwind"
+    },
+    {
+      "id": 6,
+      "title": "css"
+    },
+    {
+      "id": 7,
+      "title": "debounce"
+    },
+    {
+      "id": 8,
+      "title": "sass"
+    },
+    {
+      "id": 9,
+      "title": "ui"
+    },
+    {
+      "id": 10,
+      "title": "router"
+    },
+    {
+      "id": 11,
+      "title": "node"
+    }
+  ]
+}

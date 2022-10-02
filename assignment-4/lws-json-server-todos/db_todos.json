@@ -1,0 +1,50 @@
+{
+  "todos": [
+    {
+      "text": "Learn Javascript",
+      "completed": true,
+      "id": 1,
+      "color": "red"
+    },
+    {
+      "text": "Learn React",
+      "completed": false,
+      "id": 2,
+      "color": "red"
+    },
+    {
+      "text": "Learn Node JS",
+      "completed": false,
+      "id": 3,
+      "color": "green"
+    },
+    {
+      "text": "Learn From LWS",
+      "completed": true,
+      "id": 4,
+      "color": "yellow"
+    },
+    {
+      "text": "Learn Forget Learn",
+      "completed": false,
+      "id": 5,
+      "color": "green"
+    },
+    {
+      "text": "Follow LWS Youtube",
+      "completed": true,
+      "id": 6,
+      "color": "yellow"
+    },
+    {
+      "text": "New Todo",
+      "completed": false,
+      "id": 7
+    },
+    {
+      "text": "New Task",
+      "completed": false,
+      "id": 8
+    }
+  ]
+}

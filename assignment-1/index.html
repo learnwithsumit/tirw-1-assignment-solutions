@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Multi Counter Application</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- import redux from cdn -->
+    <script src="https://unpkg.com/redux@latest/dist/redux.min.js"></script>
+  </head>
+  <body>
+    <div class="w-screen h-screen p-10 bg-gray-100 text-slate-700">
+      <!-- header -->
+      <h1 class="max-w-md mx-auto text-center text-2xl font-bold">
+        Multi Counter Application
+      </h1>
+
+      <!-- counters -->
+      <div class="mx-auto max-w-md mt-10 space-y-5">
+        <div id="counter-container"></div>
+
+        <div class="flex space-x-3 justify-end">
+          <button
+            class="bg-indigo-400 text-white px-3 py-2 rounded shadow"
+            id="add-counter"
+          >
+            Add Counter
+          </button>
+          <button
+            class="bg-red-400 text-white px-3 py-2 rounded shadow"
+            id="reset"
+          >
+            Reset
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <script src="./script.js"></script>
+  </body>
+</html>

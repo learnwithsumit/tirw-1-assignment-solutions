@@ -1,0 +1,73 @@
+const authors = [
+  {
+    id: 1,
+    name: 'Abdullah',
+    avatar: '/images/users/u1.jpg',
+  },
+  {
+    id: 2,
+    name: 'Abdur Rahman',
+    avatar: '/images/users/u2.jpg',
+  },
+  {
+    id: 3,
+    name: 'Sumit Saha',
+    avatar: '/images/users/u3.jpg',
+  },
+];
+export const posts = [
+  {
+    id: 1,
+    title: 'Get Higher Education From Your Dream Land',
+    image: '/images/posts/p1.jpg',
+    category: 'education',
+    postedAt: '11 Jul, 2020',
+    readTime: 6,
+    author: authors[1],
+  },
+  {
+    id: 2,
+    title: 'The new revolution is called javascript',
+    image: '/images/posts/p2.jpg',
+    category: 'article',
+    postedAt: '22 Aug, 1990',
+    readTime: 9,
+    author: authors[2],
+  },
+  {
+    id: 3,
+    title: 'Study with passion be a better nation',
+    image: '/images/posts/p3.jpg',
+    category: 'education',
+    postedAt: '8 May, 2018',
+    readTime: 15,
+    author: authors[0],
+  },
+  {
+    id: 4,
+    title: 'Learn Advanced React',
+    image: '/images/posts/p4.jpg',
+    category: 'tutorial',
+    postedAt: '24 Sep, 2022',
+    readTime: 8,
+    author: authors[2],
+  },
+  {
+    id: 5,
+    title: 'Tailwind is a great thing to learn',
+    image: '/images/posts/p5.jpg',
+    category: 'tutorial',
+    postedAt: '11 Jan, 2005',
+    readTime: 7,
+    author: authors[0],
+  },
+  {
+    id: 6,
+    title: 'Innovation is the key now',
+    image: '/images/posts/p6.jpg',
+    category: 'article',
+    postedAt: '11 Jul, 2020',
+    readTime: 25,
+    author: authors[1],
+  },
+];
